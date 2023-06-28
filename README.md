@@ -12,6 +12,7 @@ This project is a REST API built with Django, Postgres, and Docker, providing CR
 - [Database Design](#database-design)
 - [Functionalities](#functionalities)
 - [Contributing](#contributing)
+- [Images](#images)
 
 ## Introduction
 
@@ -67,3 +68,14 @@ Contributions to the project are welcome! To contribute, follow these steps:
 4. Submit a pull request
 
 Please adhere to the coding conventions and guidelines specified in the project.
+
+## Images
+- ![Image1](https://github.com/adamjardali/Task-Manager-Django/blob/main/Task%20Manager/1.PNG)
+- ![Image2](https://github.com/adamjardali/Task-Manager-Django/blob/main/Task%20Manager/2.PNG)
+- ![Image3](https://github.com/adamjardali/Task-Manager-Django/blob/main/Task%20Manager/3.PNG)
+- ![Image4](https://github.com/adamjardali/Task-Manager-Django/blob/main/Task%20Manager/4.PNG)
+- ![Image5](https://github.com/adamjardali/Task-Manager-Django/blob/main/Task%20Manager/5.PNG)
+- ![Image6](https://github.com/adamjardali/Task-Manager-Django/blob/main/Task%20Manager/6.PNG)
+- ![Image7](https://github.com/adamjardali/Task-Manager-Django/blob/main/Task%20Manager/7.PNG)
+- ![Image8](https://github.com/adamjardali/Task-Manager-Django/blob/main/Task%20Manager/8.PNG)
+- ![Image9](https://github.com/adamjardali/Task-Manager-Django/blob/main/Task%20Manager/9.PNG)
